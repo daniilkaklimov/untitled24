@@ -25,7 +25,7 @@ public class Main {
         } else {
             throw new RuntimeException("4 была не найденпа");
         }
-        
+
     }
 }
 
